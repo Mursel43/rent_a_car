@@ -1,0 +1,2 @@
+# Bir nomreli rentacar sirketi!
+bu menim ilk praktikamdir men bu dersde readme.md elave etmeyi oyrendim readme.md githubda kodlari axdarib ne ise yaradigini oyrenmey evezine bize girisde bizim proyektimiz ne ise yaradigini aciqlayir!
